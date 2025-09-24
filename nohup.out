@@ -1,0 +1,35 @@
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.4:5000
+[33mPress CTRL+C to quit[0m
+157.50.153.79 - - [20/Sep/2025 07:39:43] "OPTIONS /register HTTP/1.1" 200 -
+157.50.153.79 - - [20/Sep/2025 07:39:43] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+157.50.153.79 - - [20/Sep/2025 07:39:43] "OPTIONS /login HTTP/1.1" 200 -
+157.50.153.79 - - [20/Sep/2025 07:39:43] "POST /login HTTP/1.1" 200 -
+157.50.153.79 - - [20/Sep/2025 07:39:59] "OPTIONS /encrypt HTTP/1.1" 200 -
+157.50.153.79 - - [20/Sep/2025 07:39:59] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+157.50.153.79 - - [20/Sep/2025 07:43:30] "OPTIONS /encrypt HTTP/1.1" 200 -
+157.50.153.79 - - [20/Sep/2025 07:43:30] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+157.50.153.79 - - [20/Sep/2025 07:43:31] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+157.50.153.79 - - [20/Sep/2025 07:43:32] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+157.50.153.79 - - [20/Sep/2025 07:43:33] "[31m[1mPOST /encrypt HTTP/1.1[0m" 400 -
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.4:5000
+[33mPress CTRL+C to quit[0m
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.4:5000
+[33mPress CTRL+C to quit[0m
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.0.4:5000
+[33mPress CTRL+C to quit[0m

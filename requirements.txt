@@ -1,0 +1,6 @@
+Flask
+Faker
+pycryptodome
+gunicorn
+PyJWT
+werkzeug
